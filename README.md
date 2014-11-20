@@ -1,4 +1,4 @@
 ClassProject
 ============
 
-Class Project for Getting and Cleaning Data
+Class Project for mooc class "Getting and Cleaning Data" at Johns Hopkins
